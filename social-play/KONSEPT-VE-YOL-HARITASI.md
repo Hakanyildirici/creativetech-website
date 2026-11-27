@@ -54,7 +54,7 @@ Bu doküman sesli notlardan derlenen ilk taslaktır. İleride tanıtım web site
 | Fona katkı | Yeni şube birikim fonu | Çok yüksek |
 
 ### Seviyeler
-Yeni → Düzenli → Sosyal → Premium → Global (tüm şubelere giriş, yeni şube açılışında söz hakkı). Uzun süre gelmeyenin seviyesi yavaşça düşer.
+Yeni → Düzenli → Sosyal → Premium → Global (tüm şubelere giriş, kulüp yönetiminde ve yeni şubelerde söz hakkı). Öğrenci ve genç profesyonel için ayrı puan yolları; profesyonelliğe teşvik. Uzun süre gelmeyenin seviyesi yavaşça düşer.
 
 ### Günlük karne
 İçeride geçen süre · en uzun kesintisiz sohbet · yeni kontak sayısı ve gruplar · gelen mesaj/çağrı · telefon odası kullanımı · kazanılan puan.
@@ -62,6 +62,7 @@ Yeni → Düzenli → Sosyal → Premium → Global (tüm şubelere giriş, yeni
 ## 4. İş modeli
 - **Oyun ekonomisi:** Başlangıçta ücretsizler; puan arttıkça indirim ve ücretsizler artar. Sponsorlar ücretsiz içecek sağlar veya oyun tasarımına sponsor olur. Üyeler birbirine ısmarlayabilir.
 - **Şeffaf sosyal işletme:** Gelir (bar, mutfak, sponsor, bağış) ve giderler (kira, personel, ürün, enerji) canlı olarak herkese açık. Hedef aşılınca bağış kabulü durur, fazla birikim fonuna aktarılır; fon yeni şubeleri açar. Fona katkı puan kazandırır.
+- **Canlı fon sayacı ve ödül havuzu:** Birikim fonu kulüp ekranlarında kumarhane ekranları gibi peni peni artar. Bir kısmı ödül havuzuna ayrılır: jackpot anı, ücretsiz çekiliş, ayın en iyi puanı veya topluluk oyuyla seçilen çok özel biri. *Hukuki not: UK'de parayla katılınan çekiliş/jackpot Gambling Act 2005 kapsamında lisans gerektirir; ücretsiz katılım veya puana/beceriye dayalı ödül tercih edilmeli, avukatla netleştirilmeli.*
 - **Üyelik:** Herkes ücretsiz, referanssız. Lokasyon üyeliği + global üyelik (satın alınmaz, kazanılır).
 - **Mekân:** 4.000–5.000 m² amiral kulüp: giriş & dolaplar, açık meydan, ekran odaları, bar & mutfak, telefon kabinleri, stüdyo.
 
@@ -77,12 +78,16 @@ Yeni → Düzenli → Sosyal → Premium → Global (tüm şubelere giriş, yeni
 | 0 · Konsept | 0–1 ay | Pitch deck, isim/marka, tanıtım sitesi, bekleme listesi |
 | 1 · Doğrulama | 1–3 ay | Pop-up “telefonsuz geceler”, dolap + NFC bileklik testi, geri bildirim |
 | 2 · Ürün | 3–6 ay | Üyelik uygulaması, saat prototipi, puan motoru v1, Reels odası demosu |
-| 3 · Pilot kulüp | 6–12 ay | İlk küçük mekân, sponsor anlaşmaları, canlı şeffaflık paneli |
+| 3 · Pilot kulüp | 6–12 ay | Londra'da ilk küçük mekân, sponsor anlaşmaları, canlı fon sayacı |
 | 4 · Büyüme | 12+ ay | Amiral kulüp, fonla yeni şubeler, global üyelik |
 
-## 7. Açık sorular
-- Saat: özel donanım mı, hazır akıllı bileklik/NFC mi?
-- İlk şehir, mekân ve net hedef kitle?
-- Puan ağırlıkları ve seviye eşikleri?
-- Sponsorluk modeli ve hukuki yapı (sosyal girişim / kooperatif / dernek)?
-- Web sitesi kapsamı: tanıtım + ön kayıt formu.
+## 7. Kararlar ve açık konular
+| Konu | Karar | Durum |
+|---|---|---|
+| Saat | AiOtech NFC bileklik-saat | Karar |
+| İlk şehir | Londra | Karar |
+| Yaş | 18+ herkes; 16–17 yaş 18+ refakatçiyle, alkollü alanlara UK lisans kurallarına göre | Karar |
+| Puan yolları | Öğrenci ve genç profesyonel için ayrı puan; profesyonelliğe teşvik | Karar |
+| Puan kriterleri ve eşikler | İlk sürüm kuralları sonra belirlenecek | Sonra |
+| Sponsorluk ve hukuki yapı | CIC (Community Interest Company), kooperatif veya dernek | Açık |
+| Web sitesi | Sunumdan tanıtım sitesi + üyelik ön kayıt formu | Sıradaki |
